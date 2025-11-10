@@ -15,3 +15,13 @@ Our vision is to build an AI tool that is not only powerful and effective but al
 - **Create a user-friendly interface:** We will develop an intuitive interface that allows users to interact with the AI, input queries, and receive clear and actionable insights.
 - **Foster a collaborative community:** We will encourage community contributions, from code and documentation to training data and user feedback.
 - **Promote ethical and responsible use:** We will establish clear guidelines for the ethical use of our AI and actively work to prevent its misuse.
+
+## Getting Started
+
+To get started with the tool, clone the repository and run the main script:
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+cd your-repository-name
+python3 src/main.py
+```
